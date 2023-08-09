@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @hqtriaidenboizz
+- I'm a Front-End Developer 💻
+- Techs: React JS, React Native, Next JS, TypeScript... 
